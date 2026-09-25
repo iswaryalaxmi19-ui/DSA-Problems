@@ -1,4 +1,4 @@
-def min-max(arr):
+def min_max(arr):
     min = arr[0]
     max = arr[0]
     for i in range(1,len(arr)):
